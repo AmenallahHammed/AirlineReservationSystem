@@ -1,1 +1,2 @@
 # AirlineReservationSystem
+This is a simple Java-based application that allows users to search for available flights, book tickets, cancel reservations, and view their booking information. The system manages flight data, passenger information, and reservation records. It is designed to demonstrate basic object-oriented programming concepts such as classes, objects, inheritance, and data management in Java.
